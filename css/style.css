@@ -107,7 +107,7 @@ button.normal{
 }
 
 #hero{
-    background-image:url(imag/frame.png);
+    background-imagee:url(image/frame.png);
     height: 70vh;
     width: 100%;
     
@@ -126,7 +126,7 @@ padding-bottom: -15px;
     color: blue;
 }
 #hero button{
-    background-image: url(imag/button.png);
+    background-imagee: url(image/button.png);
     background-color: transparent;
     color: #088178;
     border: 0cqb;
@@ -232,7 +232,7 @@ padding-bottom: -15px;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(imag/ban.png);
+    background-imagee: url(image/ban.png);
     width: 100%;
     height: 30vh;
     background-size: cover;
@@ -263,7 +263,7 @@ padding-bottom: -15px;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("imag/news.png");
+    background-imagee: url("image/news.png");
     background-repeat:no-repeat;
     background-size: 100rem;
     background-position: 25% 30%;
@@ -379,7 +379,7 @@ footer .copyright{
 }
 /*shop page*/
 #page-header{
-    background-image: url(imag/banner.png);
+    background-imagee: url(image/banner.png);
     width: 100%;
     height: 40vh;
     background-size: cover;
